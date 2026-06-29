@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-cheat-sheet.md",
+                "file": "git-cheat-sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "obsidian-cheat-sheet"
+              "title": "git-cheat-sheet"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-cheat-sheet.md",
+                "file": "git-cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obsidian-cheat-sheet"
+              "title": "Backlinks for git-cheat-sheet"
             }
           },
           {
@@ -190,15 +190,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9d316e02b208566f",
   "lastOpenFiles": [
-    "Strategy/Strategy.md",
     "obsidian-cheat-sheet.md",
-    "MBA/MBA Home.md",
+    "MBA/CU MBA Overview.md",
+    "git-cheat-sheet.md",
     "BASE.base",
+    "Strategy/Strategy.md",
+    "MBA/MBA Home.md",
     "Strategy/Cases/Untitled 1.base",
     "Strategy/Cases",
     "Strategy/Cases/Apple_Inc_2015_Case_Summary.md",
@@ -215,14 +218,13 @@
     "Strategy/Strategy Syllabus.md",
     "Strategy",
     "MBA/econ.md",
-    "CU MBA Overview.md",
     "Costco.md",
     "[create a link.md",
     "MBA/Finance.md",
-    "Ops Mgmt.md",
+    "MBA/Ops Mgmt.md",
     "Networking.md",
     "MBA",
     "Welcome.md",
-    "Midterm.md"
+    "MBA/Midterm.md"
   ]
 }
