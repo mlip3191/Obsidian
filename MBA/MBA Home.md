@@ -1,6 +1,0 @@
-[[Finance]]
-[[Ops Mgmt]]
-
-
-
-

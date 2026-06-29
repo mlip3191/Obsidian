@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategy/Strategy.md",
+                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strategy"
+              "title": "Apple_Inc_2015_Case_Summary_1"
             }
           },
           {
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strategy/Strategy.md",
+                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Strategy"
+              "title": "Backlinks for Apple_Inc_2015_Case_Summary_1"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strategy/Strategy.md",
+                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Strategy"
+              "title": "Outgoing links from Apple_Inc_2015_Case_Summary_1"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strategy/Strategy.md",
+                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strategy"
+              "title": "Outline of Apple_Inc_2015_Case_Summary_1"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,37 +214,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6bf38d99764e5ac",
+  "active": "4284c29d1c079e10",
   "lastOpenFiles": [
-    "Strategy/Strategy Syllabus.md",
-    "Strategy/Strategy.md",
-    "Strategy/Cases/Apple_Inc_2015_Case_Summary.md",
-    "Strategy/Cases/Untitled 1.base",
-    "obsidian-cheat-sheet.md",
+    "MBA/Strategy/Strategy Syllabus.md",
     "git-cheat-sheet.md",
+    "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
+    "MBA/Strategy/Week1/Summary_Welcome_to_Strategy.md",
+    "MBA/Strategy/Week1/Summary_Innovation_Threats_and_Dilemmas.md",
+    "MBA/Strategy/Week1/Summary_Economic_Foundations_of_Strategy.md",
+    "MBA/Strategy/Week1/Summary_Disruptive_Innovation.md",
+    "MBA/Strategy/Week1/Summary_Ch02_Goals_Values_Performance.md",
+    "MBA/Strategy/Week1/Summary_Ch01_Concept_of_Strategy.md",
+    "MBA/Strategy/MD_Week1/Summary_Welcome_to_Strategy.md",
+    "MBA/Strategy/MD_Week1/Summary_Innovation_Threats_and_Dilemmas.md",
+    "MBA/Strategy/MD_Week1/Summary_Economic_Foundations_of_Strategy.md",
+    "MBA/Strategy/MD_Week1/Summary_Disruptive_Innovation.md",
+    "MBA/Strategy/MD_Week1/Summary_Ch02_Goals_Values_Performance.md",
+    "MBA/Strategy/MD_Week1/Summary_Ch01_Concept_of_Strategy.md",
+    "MBA/Strategy/MD_Week1",
+    "MBA/MD_Week1/Summary_Welcome_to_Strategy.md",
+    "MBA/MD_Week1/Summary_Innovation_Threats_and_Dilemmas.md",
+    "MBA/MD_Week1/Summary_Economic_Foundations_of_Strategy.md",
+    "MBA/MD_Week1/Summary_Disruptive_Innovation.md",
+    "MBA/MD_Week1/Summary_Ch01_Concept_of_Strategy.md",
+    "MBA/MD_Week1/Summary_Ch02_Goals_Values_Performance.md",
+    "MBA/MD_Week1",
+    "MBA/Strategy/Strategy.md",
     "MBA/CU MBA Overview.md",
-    "BASE.base",
+    "MBA/Strategy/Week1",
+    "MBA/Old Semesters/Foundations/Foundations of Business.md",
+    "MBA/Old Semesters",
     "MBA/MBA Home.md",
-    "Strategy/Cases",
-    "MBA/Foundations of Business.md",
-    "Untitled 2.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "Untitled 1.md",
+    "MBA/Old Semesters/Econ",
+    "MBA/Old Semesters/Foundations",
+    "MBA/Old Semesters/Ops/Ops Mgmt.md",
+    "MBA/Old Semesters/Ops",
+    "_BASE_.base",
+    "MBA/Old Semesters/Finance",
+    "House",
     "Untitled 1.canvas",
-    "Untitled.md",
-    "Untitled.canvas",
-    "House.md",
-    "Strategy",
-    "MBA/econ.md",
-    "Costco.md",
-    "[create a link.md",
-    "MBA/Finance.md",
-    "MBA/Ops Mgmt.md",
-    "Networking.md",
-    "MBA",
-    "Welcome.md",
-    "MBA/Midterm.md"
+    "Untitled.canvas"
   ]
 }
