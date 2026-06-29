@@ -1,0 +1,162 @@
+Week 1
+- Friedrich Hayek - Use of Knowledge in Society
+	- **Scarcity** - Desirability vs availability
+	- Economic Planning
+		- What is produced?
+		- how will resources be distributed?
+		- who gets the goods?
+	- can't have as much of a resource as we'd like without sacrificing something else of value
+	- Types of Economies
+		- **Command Economy** (Socialist) - Central authority makes decisions
+			- Sets prices
+			- Publicly owned & controlled by central authority
+		- **Market Economy** (Capitalist) - everything decentralized
+			- individuals participating as buyers and sellers
+		- **Mixed Economy** (Blended)
+			- Varies across places
+			- means of production mostly privately owned
+			- government takes some ownership
+	- How do we manage scarse resources to satisfy as many of our wants and desires as possible?
+		- Possess relevant information
+		- know everyone's preferences
+		- complete knowledge of available means
+	- NO SINGLE MIND can be given all the relevant information to direct the allocation of resources
+	- Knowledge is dispersed across all individuals
+	- "This is not a dispute about whether planning is to be done or not, it is a dispute as to whether planning is to be centrally done by one authority for the whole economic system or is it to be divided among many individuals?"
+	- Knowledge is decentralized
+- The Price System
+	- knowledge shared
+	- price is a signal wrapped in an incentive
+	- scarcity is the relationship between desirability and availability
+	- price allows people to look at the value of different uses of a resource
+	- Incentive problem
+		- encourage innovation
+		- substitute
+	- Markets work well by creating the most value
+	- convey information to both producers and consumers
+	- "The problem is how to extend the span of utilization of resources beyond the span of the control of any one mind"
+	- how can people do the desirable things without being told?
+- Property Rights
+	- functioning price system and property rights
+	- **price system solves two problems**
+		- information
+		- incentives - encouragement to take risk
+	- buyers and sellers need to have ownership over resources
+	- when property rights are secure, conflict is remediated
+	- three characteristics of property rights (secure)
+		- well defined  (good fences make good neighbors)
+		- defendable - need some way of holding on
+		- transferrable - must be able to divest to a buyer
+
+
+Week 2
+- G.A. Cohen - Why not socialism
+	- Camping Trip
+	- Three Equalities of Opportunity (Egalitarian principles)
+		- Bourgeois: Remove socially constructed status restrictions
+			- Jim Crow / Caste system
+		- Left-Liberal: Remove disadvantages of circumstances
+			- born into wealth / head start / free lunch
+		- Socialist: Correct for all disadvantages
+			- goes beyond
+			- includes innate talents
+	- Community Principle
+		- People care about each other
+		- large inequalities violate this principle
+		- constrains the egalitarian principle
+	- Three Forms of Inequality
+		- Different preferences and choices
+			- Unproblematic inequality
+		- Regrettable Choices: Same initial conditions, different choices
+			- Can be problematic
+		- Option Luck: Gambling outcomes
+			- Direct criticism of market economy
+			- Violation of community principle
+			- Problematic
+	- Forms of Reciprocity
+		- Communal Reciprocity
+			- Commitment to human being to serve others and be served
+		- Market Reciprocity
+			- Exchange based on cash reward motived by greed and fear
+	- Is socialism Feasible?
+		- People are not generous
+		- don't know how to harness that generosity
+		- you cannot make an economic system operate based on generosity
+	- Inequality of the market is necessary to 
+	- 
+- Friedman
+	- **Market-Based Distribution**: Friedman posits that in a free-market system, income is distributed based on the value of an individual's labor and the productivity of their capital.
+	- Capitalism and Freedom
+	- Income inequality is fair
+	- Income Inequality
+		- Equalizing differences
+		- Risk Preferences
+		- Differences in Endowments
+	- Distribution according to product
+		- people are less able to make beneficial voluntary changes when income is redestributed
+		- 
+
+Week 3
+- Hernando De Soto - The mystery of Capital
+	- Standard of living improved
+	- Published in 2000
+	- Capitalism prevailed over Communism
+	- Imagine a country where
+		- Nobody can identify who owns what
+		- addresses cannot be easily verified
+		- people cannot be made to pay debts
+		- resources cannot be conveniently turned into money
+		- ownership cannot be divided into shares
+		- descriptions of assets are not standardized and cannot be compared
+	- Factors of production
+		- Physical capital
+		- Human capital
+		- technical knowledge
+	- Institutions > Incentives > Factors of production > GDP
+	- Dead Capital
+		- Property that is informally held, not legally recognized
+		- Assets cannot be used to their full potential because institutions cannot convert 
+	- ExtraLegal Economy
+		- Not sanctioned by the normal economic institutions
+		- Don't have clear legal title to business
+		- Business represents an asset but asset is dead capital
+	- Conversion Mechanism
+		- Convert dead capital into live capital
+		- unlock potential
+		- Lake example
+	- Legally transferable property rights are the conversion mechanism for converting assets into capital for generating more wealth
+	- doingbusiness.org
+- Adam Smith: An Inquiry into the Nature and Causes of the Wealth of Nations
+	- 1776 published
+	- Mercantilism
+		- Economic nationalism for the purpose of building a wealthy and powerful state
+		- Increasing exports and limiting imports
+		- Assumption: Finite amount of wealth
+	- Division of Labor
+		- Labor is productivity
+		- international trade
+		- dividing labor into specialized jobs makes labor more productive
+	- Specialization > Truck, Barter, & Exchange
+	- Autarky: Creating a closed economy
+		- Smith does not agree with this
+		- higher standard of living by trading
+	- Comparative Advantage
+		- If a foreign country can supply us with a commodity cheaper than we can make it, better buy it of them with some part of the product of our own industry employed in a way in which we have some advantage
+		- take advantage of abilities to trade for other goods that can't be produced
+	- Invisible hand - Comparative advantage
+		- if you wanted to create the greatest value to society, then how should you employ your labor? Well, the answer is the same way that a nation's focus production on what they have a comparative advantage in and then trades for the rest.
+		- employ your labor, where it is most valuable and productive, which is in your self-interest and by doing so, you'll be creating the greatest value to society as well.
+- Marx - Communist Manifesto
+	- 1848 published
+	- Class Struggle - History has a pattern
+		- Opressor vs Oppressed
+		- Bourgeoise (Capitalists) vs Proletariat (Working Class)
+	- Capitalism has benefited the ruling class by exploiting the working class
+	- Direct critique of Adam Smith
+	- Autarky - seclusion and self sufficiency
+	- Labor theory of value - put a price on labor
+	- Working class will revolt
+		- change in the relationship between citizens and the ownership of capital
+		- publicly owned capital
+	- Communism - Abolition of private property
+	- 
