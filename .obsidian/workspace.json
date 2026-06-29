@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-cheat-sheet.md",
+                "file": "Strategy/Strategy.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "obsidian-cheat-sheet"
+              "title": "Strategy"
             }
           },
           {
@@ -45,8 +55,7 @@
               "title": "git-cheat-sheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git-cheat-sheet.md",
+                "file": "Strategy/Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for git-cheat-sheet"
+              "title": "Backlinks for Strategy"
             }
           },
           {
@@ -138,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CU MBA Overview.md",
+                "file": "Strategy/Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CU MBA Overview"
+              "title": "Outgoing links from Strategy"
             }
           },
           {
@@ -167,16 +176,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CU MBA Overview.md",
+                "file": "Strategy/Strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CU MBA Overview"
+              "title": "Outline of Strategy"
+            }
+          },
+          {
+            "id": "e27386815e8d84b1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,17 +214,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d316e02b208566f",
+  "active": "d6bf38d99764e5ac",
   "lastOpenFiles": [
-    "obsidian-cheat-sheet.md",
-    "MBA/CU MBA Overview.md",
-    "git-cheat-sheet.md",
-    "BASE.base",
+    "Strategy/Strategy Syllabus.md",
     "Strategy/Strategy.md",
-    "MBA/MBA Home.md",
-    "Strategy/Cases/Untitled 1.base",
-    "Strategy/Cases",
     "Strategy/Cases/Apple_Inc_2015_Case_Summary.md",
+    "Strategy/Cases/Untitled 1.base",
+    "obsidian-cheat-sheet.md",
+    "git-cheat-sheet.md",
+    "MBA/CU MBA Overview.md",
+    "BASE.base",
+    "MBA/MBA Home.md",
+    "Strategy/Cases",
     "MBA/Foundations of Business.md",
     "Untitled 2.base",
     "Untitled 5.base",
@@ -215,7 +236,6 @@
     "Untitled.md",
     "Untitled.canvas",
     "House.md",
-    "Strategy/Strategy Syllabus.md",
     "Strategy",
     "MBA/econ.md",
     "Costco.md",

@@ -3,13 +3,11 @@
 > Harvard Business School Case 9-715-456 | Authors: David B. Yoffie & Eric Baldwin
 
 ---
-
 ## Overview
 
 This Harvard Business School case, written by Professor David Yoffie and Eric Baldwin, examines Apple at a critical inflection point: Tim Cook's first major strategic initiative (the Apple Watch) following Steve Jobs's death, and the broader question of whether Apple could sustain its extraordinary trajectory without its legendary founder.
 
 ---
-
 ## Apple's Historical Arc
 
 **Founding through crisis (1976–1997).** Jobs and Wozniak built Apple from a garage startup into a PC industry leader, but competitive missteps — particularly refusing to license the Mac OS while IBM's open "Wintel" standard dominated — sent the company into a tailspin. Three successive CEOs (Sculley, Spindler, Amelio) each failed to reverse the decline, and Apple came within 90 days of bankruptcy before Jobs returned in 1997.
@@ -17,7 +15,6 @@ This Harvard Business School case, written by Professor David Yoffie and Eric Ba
 **The Jobs turnaround.** Jobs immediately imposed focus: he slashed 15 product lines down to four, killed the Mac cloning program, recruited Tim Cook to fix the supply chain, and reinvested in R&D. Crucially, he repositioned Apple not just as a computer company but as a premium lifestyle and design brand — embodied in the "Think Different" campaign and eventually the Apple retail stores, which became what one analyst called "the Nordstrom of technology."
 
 ---
-
 ## The Four Pillars of Apple's Growth Engine
 
 ### 1. The Macintosh
@@ -63,7 +60,6 @@ However, the iPad's momentum had stalled badly. Four consecutive quarters of sal
 Cook's response was a partnership with IBM to develop enterprise-grade iPad/iPhone apps and deploy IBM's sales force — targeting the 90% of Fortune 500 companies that had Apple devices but at low penetration rates.
 
 ---
-
 ## The Competitive Landscape
 
 **Smartphones:** Android, Google's free and open platform, had reached 81.5% global market share by 2014 vs. Apple's 14.8%. Samsung was the volume leader with 24.5% share, but Apple and Samsung together took more than 100% of the industry's profits (other players were losing money). Xiaomi, the fast-growing Chinese low-cost competitor, was perhaps the most feared new entrant — tripling sales to 61 million units in 2014.
@@ -73,7 +69,6 @@ Cook's response was a partnership with IBM to develop enterprise-grade iPad/iPho
 **Tablets:** Android dominated at 67.6% share; iOS fell to 27.5%. Microsoft's Surface remained under 5% share despite significant investment.
 
 ---
-
 ## New Bets: Apple Watch and Apple Pay
 
 **Apple Watch** (announced March 2015, shipping April 2015) was Cook's first major product initiative. Positioned as a timepiece, fitness tracker, and iPhone companion, it started at $349 and went up to $17,000 for a gold edition. Key risks included: daily charging requirement, dependency on newer iPhones, and an already crowded market with Samsung, Pebble, and Google's AndroidWear ecosystem. Total smartwatch industry sales in 2014 were only about $1.1 billion — tiny by Apple's standards.
@@ -81,7 +76,6 @@ Cook's response was a partnership with IBM to develop enterprise-grade iPad/iPho
 **Apple Pay** launched simultaneously, targeting mobile payments. It used NFC technology, TouchID fingerprint authentication, and tokenization (no card numbers transmitted to merchants). Major banks and retailers signed on quickly. Cook claimed Apple Pay accounted for two-thirds of mobile payments at participating retailers by December 2014.
 
 ---
-
 ## Strategic Tensions and Key Questions
 
 The case surfaces several enduring strategic tensions:
@@ -95,7 +89,6 @@ The case surfaces several enduring strategic tensions:
 **Platform ecosystem lock-in:** iCloud, the App Store, iMessage, and continuity across Mac/iPhone/iPad created powerful switching costs. But competitors (Google, Microsoft) were building comparable ecosystems, and Android's app store surpassed Apple's in total app count for the first time in 2014.
 
 ---
-
 ## The Central Strategic Question
 
 The case closes with the question Cook himself had to be wrestling with: **Could the Apple Watch and Apple Pay replicate the transformative impact of the iPhone and iTunes?** The Watch entered a nascent market with unproven consumer demand, high price points, and genuine dependence on the iPhone. Apple Pay faced entrenched payment habits and competition from Google Wallet and others.
