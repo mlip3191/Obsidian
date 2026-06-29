@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
+                "file": "MBA/CU MBA Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Apple_Inc_2015_Case_Summary_1"
+              "title": "CU MBA Overview"
             }
           },
           {
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
+                "file": "MBA/CU MBA Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Apple_Inc_2015_Case_Summary_1"
+              "title": "Backlinks for CU MBA Overview"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
+                "file": "MBA/CU MBA Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Apple_Inc_2015_Case_Summary_1"
+              "title": "Outgoing links from CU MBA Overview"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
+                "file": "MBA/CU MBA Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Apple_Inc_2015_Case_Summary_1"
+              "title": "Outline of CU MBA Overview"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,9 +216,10 @@
   },
   "active": "4284c29d1c079e10",
   "lastOpenFiles": [
+    "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
+    "MBA/Strategy/Week1/HBS_Kittyhawk_Case_Summary.md",
     "MBA/Strategy/Strategy Syllabus.md",
     "git-cheat-sheet.md",
-    "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
     "MBA/Strategy/Week1/Summary_Welcome_to_Strategy.md",
     "MBA/Strategy/Week1/Summary_Innovation_Threats_and_Dilemmas.md",
     "MBA/Strategy/Week1/Summary_Economic_Foundations_of_Strategy.md",
@@ -247,7 +248,6 @@
     "MBA/MBA Home.md",
     "MBA/Old Semesters/Econ",
     "MBA/Old Semesters/Foundations",
-    "MBA/Old Semesters/Ops/Ops Mgmt.md",
     "MBA/Old Semesters/Ops",
     "_BASE_.base",
     "MBA/Old Semesters/Finance",
