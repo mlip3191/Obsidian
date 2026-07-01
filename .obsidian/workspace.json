@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cfa83a3a710ce55",
+        "id": "d42e004fa881a9a9",
         "type": "tabs",
         "children": [
           {
-            "id": "f66b574f33a2cd28",
+            "id": "4284c29d1c079e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA/Strategy/Strategy Syllabus.md",
+                "file": "MBA/Strategy/Week1/HBS_Kittyhawk_Case_Summary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strategy Syllabus"
+              "title": "HBS_Kittyhawk_Case_Summary"
+            }
+          },
+          {
+            "id": "9d316e02b208566f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git-cheat-sheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git-cheat-sheet"
             }
           }
         ]
@@ -190,15 +214,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f66b574f33a2cd28",
+  "active": "4284c29d1c079e10",
   "lastOpenFiles": [
-    "MBA/Strategy/Strategy.md",
+    "MBA/Strategy/Week1/Summary_Welcome_to_Strategy.md",
     "MBA/CU MBA Overview.md",
     "MBA/Strategy/Strategy Syllabus.md",
+    "MBA/Strategy/Strategy.md",
     "MBA/Strategy/Week1/Apple_Inc_2015_Case_Summary_1.md",
     "MBA/Strategy/Week1/HBS_Kittyhawk_Case_Summary.md",
     "git-cheat-sheet.md",
-    "MBA/Strategy/Week1/Summary_Welcome_to_Strategy.md",
     "MBA/Strategy/Week1/Summary_Innovation_Threats_and_Dilemmas.md",
     "MBA/Strategy/Week1/Summary_Economic_Foundations_of_Strategy.md",
     "MBA/Strategy/Week1/Summary_Disruptive_Innovation.md",
@@ -221,6 +245,7 @@
     "MBA/Strategy/Week1",
     "MBA/Old Semesters/Foundations/Foundations of Business.md",
     "MBA/Old Semesters",
+    "MBA/MBA Home.md",
     "MBA/Old Semesters/Econ",
     "MBA/Old Semesters/Foundations",
     "MBA/Old Semesters/Ops",
